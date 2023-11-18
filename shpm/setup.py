@@ -2,8 +2,8 @@
 from setuptools import setup
 
 setup(
-    name="shpm_themadpunter",
+    name="dmpm_joseernesto",
     version="0.1.0",
-    author="Themadpunter",
+    author="JoseErnestoOnGithub",
     description = "A package manager for MIT Scratch"
 )
